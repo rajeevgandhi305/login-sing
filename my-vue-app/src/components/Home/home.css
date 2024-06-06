@@ -1,0 +1,31 @@
+.homepage {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navigation {
+    margin-top: 20px;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navigation ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .username {
+    margin-top: 20px;
+    font-style: italic;
+  }
+  
